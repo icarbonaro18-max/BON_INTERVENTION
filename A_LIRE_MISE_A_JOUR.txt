@@ -1,0 +1,7 @@
+OPUS ELEC - BON D'INTERVENTION v1.5
+
+Cette version conserve l'Aperçu PDF avant partage.
+Nouvelle icône validée : fond violet, fiche d'intervention, outils et coche.
+Le bandeau blanc OPUS ELEC est conservé comme sur les autres applications.
+
+Après mise à jour GitHub, supprimer puis recréer le raccourci pour voir la nouvelle icône.
