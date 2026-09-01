@@ -1,7 +1,18 @@
-OPUS ELEC - BON D'INTERVENTION v1.5
+OPUS ELEC - BON D'INTERVENTION v1.7
 
-Cette version conserve l'Aperçu PDF avant partage.
-Nouvelle icône validée : fond violet, fiche d'intervention, outils et coche.
-Le bandeau blanc OPUS ELEC est conservé comme sur les autres applications.
+MATÉRIEL UTILISÉ :
+Deux choix uniquement :
 
-Après mise à jour GitHub, supprimer puis recréer le raccourci pour voir la nouvelle icône.
+1. Saisir le matériel utilisé
+   - pour dépannage / intervention sans devis ;
+   - quantité + unité + désignation + référence.
+
+2. Selon devis
+   - aucune saisie détaillée du matériel ;
+   - possibilité de renseigner la référence du devis.
+
+Le choix « Selon affaire » a été supprimé.
+
+Les anciens dossiers éventuellement enregistrés avec « Selon affaire » seront automatiquement repris comme « Selon devis ».
+
+Aperçu PDF, Mes dossiers, photos, signatures et icône violette conservés.
