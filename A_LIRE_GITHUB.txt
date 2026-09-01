@@ -1,0 +1,4 @@
+OPUS BON D'INTERVENTION v1.3 - SIMPLIFIE
+
+Modification : suppression complète du champ Tablette / appareil dans le formulaire, les sauvegardes et le PDF.
+La gestion des dossiers modifiables reste inchangée.
